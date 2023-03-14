@@ -2,7 +2,7 @@
 
 터미널 => 해당 디렉토리 이동 => npm install => npm start
 
-그대로 놔두고 다른 새 터미널 => json-server --watch ./src/data.json --port 3001
+그대로 놔두고 다른 새 터미널 => json-server --watch ./src/data.json --port 3001  
 (기본 포트 3000으로 실행되는데, 리액트 app과 겹치므로 3001로 변경)
 
 실행 이후
